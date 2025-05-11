@@ -35,7 +35,7 @@ By implementing these parts, I aim to grasp the mechanics and interactions that 
 ## Tech Stack
 
 *   **Language:** Python 3.x
-*   **Core Library:** [PyTorch / TensorFlow / NumPy-only - specify what you'll use]
+*   **Core Library:** PyTorch
 *   **(Optional) Other libraries:** Matplotlib (for visualizations), Jupyter (for notebooks)
 
 ## Structure (Tentative)
@@ -89,14 +89,9 @@ I plan to follow the structure of "The Annotated Transformer," implementing and 
 
 ## Current Status
 
-[e.g., "Just started - setting up the project structure." or "Implemented Scaled Dot-Product Attention and Multi-Head Attention."]
+Just started - setting up the project structure.
 
 ## Acknowledgements
 
 *   The authors of "Attention Is All You Need" for their groundbreaking work.
 *   Sasha Rush and the Harvard NLP team for "The Annotated Transformer," which makes this complex model much more accessible.
-
-## License
-
-[e.g., MIT License, Apache 2.0 - choose one if you want, MIT is common for personal projects]
-This project is licensed under the MIT License - see the LICENSE.md file for details (if you add one).
