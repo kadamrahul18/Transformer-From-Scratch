@@ -1,4 +1,4 @@
-# [Your Chosen Project Title - e.g., Transformer-From-Scratch]
+# Transformer From Scratch
 
 This project is my personal journey into understanding and implementing the Transformer model, as introduced in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al. My primary guide and inspiration for the implementation structure is Harvard NLP's ["The Annotated Transformer"](https://nlp.seas.harvard.edu/annotated-transformer/).
 
